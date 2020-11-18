@@ -1,4 +1,7 @@
 ## matplotlib-challenge
+
+##### Link to Jupyter Notebook http://localhost:8888/notebooks/Pymaceuticals.ipynb
+
 ### Working with mice study data to identify effective drug regimens for fighting skin cancer. 
 
 ## Objectives:
